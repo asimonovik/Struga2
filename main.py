@@ -1,0 +1,1 @@
+paint ("Struga 2")
