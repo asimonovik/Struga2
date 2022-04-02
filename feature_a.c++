@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include<iostream>
 
 using namespace std;
@@ -17,3 +18,6 @@ int main()
 	nzd=a;
 	cout<<nzd<<"\n";
 }
+=======
+2+2=4
+>>>>>>> 54bb0529d072027ac9b45b02e11de2c8d0900844
